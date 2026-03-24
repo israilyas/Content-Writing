@@ -2,6 +2,10 @@
 
 ## Content Writing:
 - Intro / First paragraph
+- NLP Analysis: Entity Extraction
+- Intro (Solution-Based Summary)
+- Promised Content Delivery
+- Research (ChattGPT)
   - Article ki summary first para mein provide krdein.
   - 1st para highly optimized, entity-rich, not too lengthy (3-4 lines).
   - AEO also depends on the 1st para (it should contain the solution).
